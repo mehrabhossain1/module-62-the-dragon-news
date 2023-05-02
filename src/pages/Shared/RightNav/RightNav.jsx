@@ -38,7 +38,11 @@ const RightNav = () => {
           </ListGroup.Item>
         </ListGroup>
       </div>
+
+      {/* QZone */}
       <QZone></QZone>
+
+      {/* background */}
       <div>
         <img src={bg} alt="" />
       </div>
